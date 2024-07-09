@@ -1,0 +1,4 @@
+name: Realyt
+version: '${project.version}'
+main: com.realyt.realyt.Realyt
+api-version: '1.20'
