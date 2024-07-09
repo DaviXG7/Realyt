@@ -1,2 +1,12 @@
-package com.realyt.realyt.element;public enum EType {
+package com.realyt.realyt.element;
+
+public enum EType {
+
+    AGUA,
+    GELO,
+    FOGO,
+    SKULK,
+    AR,
+    TERRA
+
 }
